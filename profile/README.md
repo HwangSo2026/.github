@@ -226,7 +226,7 @@ Hold는 Redis의 String + TTL로 구현하며 토큰(token) 으로 소유자를 
 
 ---
 
-### 5-3. 예약 기능 (CRD + Change)
+### 5-3. 예약 기능
 ![reservationFlow](../docs/images/rsvFlow.png)
 
 예약은 Redis를 **주 저장소(Primary Store)** 로 사용하며, 슬롯 단위 Hash 구조로 예약을 저장합니다.  
