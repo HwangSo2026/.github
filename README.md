@@ -61,13 +61,13 @@ Redis는 `TTL`과 `Lua Script`로 예약 확정 흐름을 단순하게 **원자 
 
 <a id="sec-2-tech"></a>
 ## 2. ⚒️ 사용 기술
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Vite](https://img.shields.io/badge/Vite-000?logo=vite)
-![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-000?logo=springboot)
-![Redis](https://img.shields.io/badge/Redis-000?logo=redis)
-![Nginx](https://img.shields.io/badge/Nginx-000?logo=nginx)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
-![Swagger](https://img.shields.io/badge/Swagger-000?logo=swagger)
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
 
 <br>
 
