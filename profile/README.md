@@ -53,7 +53,7 @@ Redis는 `TTL`과 `Lua Script`로 예약 확정 흐름을 단순하게 **원자 
 
 | 황인우 | 김소정 |
 | :---: | :---: |
-| <img width="163" height="166" alt="인우" src="https://github.com/user-attachments/assets/65445ed2-26c9-4134-9eaf-b73eb4a779c8" /> | <img width="163" height="166" alt="소정" src="https://github.com/user-attachments/assets/9076e4ef-f1ac-4f32-ac4d-c04b4d009df8" /> |
+| <img width="163" height="166" alt="인우" src="https://github.com/user-attachments/assets/65445ed2-26c9-4134-9eaf-b73eb4a779c8" /> | <img width="163" height="166" alt="소정" src="https://github.com/user-attachments/assets/1a0bdfdf-fcad-4f1b-ab15-cd23327e3b0a" /> |
 | [Github](https://github.com/inwoohub) | [Github](https://github.com/cowjeong) |
 | **BE & FE** | **BE & FE** |
 | Redis 키 설계(예약/Hold/TTL) <br/> Hold(선점) <br/> Lua Script(원자 처리) <br/> Admin API <br/> 전역 예외 처리 <br/> 배포(Nginx/HTTPS/도메인) <br/> FE 보조(UI/연동 일부) | 예약 CRUD <br/> 예약 화면/플로우 설계 <br/> Lua Script(원자 처리) <br/> FE 메인(UI/상태관리/연동) |
